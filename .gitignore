@@ -1,0 +1,4 @@
+*/mnist/MNIST/raw
+*/lightning_logs/*
+*/fashionmnist/FashionMNIST/raw
+lightning_logs
